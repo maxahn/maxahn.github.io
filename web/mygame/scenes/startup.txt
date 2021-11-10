@@ -1,0 +1,123 @@
+*comment Copyright 2010 by Dan Fabulich.
+*comment 
+*comment Dan Fabulich licenses this file to you under the
+*comment ChoiceScript License, Version 1.0 (the "License"); you may
+*comment not use this file except in compliance with the License. 
+*comment You may obtain a copy of the License at
+*comment 
+*comment  http://www.choiceofgames.com/LICENSE-1.0.txt
+*comment 
+*comment See the License for the specific language governing
+*comment permissions and limitations under the License.
+*comment 
+*comment Unless required by applicable law or agreed to in writing,
+*comment software distributed under the License is distributed on an
+*comment "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+*comment either express or implied.
+
+*title Dreams Can't Hurt You 
+*author Maxwell Ahn
+*scene_list
+  startup
+  animal
+  variables
+  gosub
+  ending
+  death
+
+*create leadership 50
+*create strength 50
+
+You're walking down a long hallway that never ends. At least, you don't think it ends.
+It feel as though you've been walking forever but time tends to do its own thing in dreams
+and you are most definitely dreaming. Where else but in a dream could a hallway stretch for
+so long without a single door? Where the off-white walls looks smooth one second, and then
+bumpy the next? Where the never ending stretch of the reddish brown carpet makes you scowl
+in distate at their ugliness? 
+
+Hm, you suppose that last one isn't a very strong argument but nonetheless, you know with a
+certain level of clarity that rarely follows you in real life, that this is a dream. 
+
+"When do you think we'll reach the end?" The young boy walking besides you asks.
+He stares ahead down the hallway as he walks, wearing a dark blue baseball cap with a stain on the rim.
+You can't see his face due to the cap, and for that, you are grateful.
+
+An almost comically oversized pink backpack twice his size hangs on his back, the frayed straps swaying rythmically
+to the steady cadence of his stride. The backpack looks uncomfortably heavy and bulky but the child seems
+to be unbothered by it, if a bit hunched over. 
+
+*page_break
+
+"Hello? I asked a question," the boy says, turning his head to look up at you now.
+You don't shudder but you most definitely purse your lips. The boy has no face, just an emptiness that
+never fails to unsettle you. Often, you wondered what would happen if you were to reach inside.
+
+Would the hole close, cutting your arm off? Would your hand find something deep inside, like a brain or a heart?
+Would something grab your hand and wrench it down with the rest of your body as the hole widens and closes around you like the jaw of
+a python? Fun little thoughts like that.
+
+Even if this is a dream, there are plenty of things you are not eager to try and that is one of them. You've tried throwing things into face
+holes-as you like to call them-before but they just disappear and nothing really happens after as consequence. 
+
+Finally, the boy grabs your sleeve and tugs at it with surprising vigor, pulling it from side to side. "Hellooo? Anyone in there??"
+
+*choice
+  #"I don't know."
+
+    "Why don't you know?"
+
+    "Because I don't."
+
+    "You're not very helpful, are you?"
+
+    "Well, I'm not really here to help."
+
+    "Why are you here, then?"
+
+    You ponder upon this for a moment before answering.
+
+    "I don't know." 
+
+    "Do you know anything?"
+
+    You laugh. "I know a few things, yeah."
+
+    "Doesn't seem like it."
+
+    *finish
+
+  #"Soon."
+
+    "How soon?"
+
+    "Soon enough."
+
+    "Great, I'm getting real bored of walking."
+
+    You walk on in silence. Some unmeasurable amount of time passes before the boy speaks again.
+
+    "Who are you, anyways?" He pauses. "Actually, I'm not supposed to speak with strangers."
+
+    "That's pretty good advice. Feel free not to speak to me," you smile, making sure to keep your gaze pointed straight ahead.   
+
+    "You're no fun," he says with plenty of grumble in his voice. You'd imagine he'd be pouting if he had a face to pout with. 
+
+    *finish
+
+  #"Do you want it to end?"
+    You glance at the boy who keeps walking in silence. 
+
+    "I think I do," he finally says.
+
+    When you look back down the hallway, you see the end. The door is the perfect height for the boy, but you'd have
+
+    to crouch to get through. 
+    
+    "Well, I guess I'll go now. See you around?" The boy asks, looking up at you. You try not to stare directly into his face hole. 
+
+    "Probably not."
+
+    The boy shrugs and steps through the door. He's momentarily stuck as his large pink backpack is a bit too wide for the small door
+    but you give it a firm kick and he's sent flying through with a yelp that might have made you chuckle a bit too hard.
+
+    *finish

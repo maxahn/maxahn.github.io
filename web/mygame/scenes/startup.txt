@@ -14,16 +14,17 @@
 *comment software distributed under the License is distributed on an
 *comment "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
 *comment either express or implied.
+*comment  startup
+*comment animal
+*comment variables
+*comment gosub
+*comment ending
+*comment death
 
 *title Dreams Can't Hurt You 
 *author Maxwell Ahn
 *scene_list
-  startup
-  animal
-  variables
-  gosub
-  ending
-  death
+  introduction
 
 *create leadership 50
 *create strength 50

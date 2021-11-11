@@ -1,0 +1,123 @@
+*comment GOALS: 
+*comment - get character name
+*comment - establish start of dream world goals 
+
+You're walking down a long, dimly lit hallway. The walls are a pale blue, or maybe white but 
+tinged in the unhealthy light. The floors match the walls, smooth, both free of any scuffs and
+blemishes. Sterile. It's silent. Not even your own footsteps can break this silence. So rather
+than walking, you feel like a ghost gliding.
+
+The barest hint of shadows help outline walls of the hallway has walls but if you just stare forward
+and let your eyes lose focus, the hallway turns into a tunnel which turns into a wall of hazy blue 
+with a tiny prick of light at the end. You blink. It's a hallway again. 
+
+"When do you think we'll reach the end?" The young boy walking beside you asks. He's wearing a 
+large, bulky bright orange backpack so big, he could probably curl up and fit inside. The backpack 
+seems to defy the dim, frosty lighting, almost glowing with its own warm light. He stares ahead 
+down the hallway as he walks, wearing a dark  blue baseball cap with a dark stain on the rim. His face 
+is obscured by the lid of the cap, much to your relief.
+
+*choice
+  #Ignore him.
+
+    *comment Increase non medler attr 
+
+    You turn your head forward, the cadence of your stride barely affected by the sudden question. 
+
+    Silence returns, this time tinged by a tension. An expectation. Suddenly, your bare left arm brushes against 
+    the wall and you turn to see it much closer than it was before. In fact, you're pretty sure the 
+    hallway seems be shrinking in diameter. Great.
+
+    You look back down at the boy walking beside you and he seems unaffected, even as the side of his 
+    over-sized backpack starts grinding against the wall. The sound starts off dull, exactly what you would 
+    expect from cheap, plastic nylon rubbing against a wall but soon the pitch rose to a screech, more akin to
+    a child screaming up a temper tantrum without ever needing to break for air. 
+
+    You sigh, loudly. You know there is not point in trying to cover your ears but you do so anyway.
+
+    "Alright, alright, what do you want from me?" You yell as you look down at the kid. Despite everything,
+    the two of you keep walking. The screeching sound lowers in volume, but remains. You try to ignore it.
+
+    "When do you think we'll reach the end?"
+
+    You sigh. Loudly.
+
+    "I don't know. Soon enough."
+
+    "Oh, ok."
+
+  #"Soon." You have no idea when you'll reach the end.
+
+    *comment Decrease honesty attr
+    *comment Increase medler attr slightly
+
+    "Oh, ok."
+
+    The pair of you sink back into the silence as you continue your liesurely pace. You sneak another glance 
+    at the kid. His backpack looks heavy.
+  
+    *choice
+      #Offer to carry it for him.
+        "Do you want me to carry that for you?"
+
+        "Nah," he says. "Thanks but I got it."
+
+      #Just keep walking.
+
+  #"I don't know." You don't know.
+    *comment Increase honesty attr
+    *comment Increase medler attr slightly
+    "Why don't you know?"
+
+    "Why don't [i]you[/i] know?"
+
+    The boy pauses. "I do know. It's coming up soon."
+
+Before you realize it, the end comes into sight. Double glass doors framed by frost, the left with a bronze handle and the right 
+with silver. Here, you find the source of cold, tinged blue light that filled the hallway. It almost hurts to looks at  
+despite it not being that bright. You turn away with a grimace, squinting and shielding your eyes with your hand.
+
+You didn't even realize you had stopped until you see the boy enter the corner of your vision, ever moving forward.
+
+*choice
+  #Stop him.
+    *comment Increase medler attr 
+
+    Your hand shoots forward and grabs the handle of his backpack. He makes a funny grunt, arms reaching out as he loses balance.
+    He stumbles but catches himself. Like awaking from a trance, he whips his head back towards and you see his face for the first time.
+
+  #Watch him open the door.
+    *comment Decrease medler attr 
+
+    You were hoping he would just open the door and walk through but he hesitates when he grabs the silver handle. Slowly he turns 
+    back towards you and you see his face for the first time.
+
+You don't shudder but you definitely purse your lips. He has no face, just an emptiness that never fails to unsettle you.
+Often, you wondered what would happen if you were to reach inside.
+
+Would the hole close, snapping your arm off? Would your hand find something deep inside, like a brain or a heart? Would something grab
+your hand and wrench it down with the rest of your body as the hole widens and closes around you like the jaw of a python?
+
+Fun little thoughts like that.
+
+"See you around," the boy says.
+
+"Probably not," you reply. The boy shrugs and opens the door. He struggles a bit with getting through the door with his annoying backpack
+but once he's through, he vanishes and the door shuts behind him with a petit [i]clink[/i].
+
+You can feel a shift in the air as soon as he's through. You better hurry forward.
+
+*choice
+  #Open the door with the bronze handle.
+    *comment set variable of bronze
+    You grab the bronze handle of the left door and turn it. 
+
+  #Open the door with the siler handle.
+    *comment set variable of silver
+    You grab the silver handle of the right door and turn it. 
+
+The light is so unpleasant, you have to close your eyes as you walk through.
+
+When you open your eyes again, you find yourself looking at the familiar ugly ceiling of your bedroom. The uncomfortable bluish light 
+from your dream is now the much more pleasant, yet still irritating morning light leaking through the blinds of your window. Judging by
+the strength and colour, you'd guess it's late morning.
